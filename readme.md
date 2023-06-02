@@ -1,10 +1,6 @@
 # Lost and Found Website
  A website for the students of IIITDM Jabalpur to report and claim lost and found items.
  
-### Website links
-
-- [Frontend](https://lostandfoundiiitdmj.herokuapp.com)
-- [Backend](https://lost-and-found-iiitdmj.herokuapp.com)
 
 ### Features
 
@@ -37,15 +33,3 @@
 - Run the command `npm run dev`
 - Change the directory to the backend folder
 - Run the command `npm run dev`
-
-### How to contribute
-
-- Fork the repository
-- Clone the repository
-- Create a new branch
-- Comment on an issue or create a new issue to claim it
-- Make the changes
-- Create a pull request
-- Wait for the maintainers to review the pull request
-- Make the changes if required
-
