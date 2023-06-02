@@ -7,8 +7,8 @@ const {getTodaysItemsDTO} = require("../dto/todaysItems.dto");
 const dailyUpdate = () => {
     const job = CronJob.schedule('25 01 * * *', async () => {
         const mailOptions = {
-            from: '20bec101@iiitdmj.ac.in',
-            to: '20bec101@iiitdmj.ac.in',
+            from: '20bec116@iiitdmj.ac.in',
+            to: '20bec116@iiitdmj.ac.in',
             subject: 'Daily Update on Lost and Found Items',
         };
         const dir = __dirname.split('/');
